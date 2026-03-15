@@ -1,10 +1,11 @@
 <img align="right" src="https://media.tenor.com/mydtsPTMUOgAAAAj/ragoon-linea.gif" alt="Coding GIF" width="150"/>
 
 <h3 align="center">¡Hola! 👋 Soy Juan</h3>
+<br>
 
 <h3 align="left">Apasionado por la Ingeniería de Sistemas | Entendiendo cómo funcionan las cosas | Desarrollador de proyectos a gran escala</h3>
 
----
+<br>
 
 ### 👨‍💻 Sobre mí
 
