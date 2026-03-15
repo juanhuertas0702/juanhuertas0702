@@ -2,6 +2,12 @@
 
 <h1 align="left">¡Hola! 👋 Soy Juan</h1>
 
+<p align="left">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&width=600&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Desarrollando+apps+m%C3%B3viles+seguras;Analizando+redes+y+ciberseguridad;Creando+sistemas+IoT+con+ESP32;T%C3%A9cnicas+OSINT+y+prevenci%C3%B3n+de+phishing" alt="Typing SVG" />
+  </a>
+</p>
+
 <div align="center" style="margin-top: -20px;">
   <img src="https://media.tenor.com/mydtsPTMUOgAAAAj/ragoon-linea.gif" alt="GIF Mapache" width="250"/>
 </div>
@@ -22,6 +28,18 @@
 * 🛡️ El diseño de una aplicación móvil con DNS antiphishing enfocada en proteger a los adultos mayores de estafas online.
 * 🧠 Explorando la idea de crear un emulador de Android para dispositivos móviles.
 * 🚲 Anteriormente he desarrollado proyectos de hardware/software, como un sistema de acceso para bicicletas usando ESP32, PN532 y Firebase, y la plataforma web *SkillLink*.
+
+### 🏆 Mis Proyectos Destacados
+
+<div align="center">
+  <a href="https://github.com/juanhuertas0702/SKILLLINK_FINAL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanhuertas0702&repo=SKILLLINK_FINAL&theme=tokyonight&show_icons=true" alt="Proyecto 1" />
+  </a>
+
+  <a href="https://github.com/n4ncy27/Cajafacil-microempresas.git">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=n4ncy27&repo=Cajafacil-microempresas&theme=tokyonight&show_icons=true" alt="Proyecto Colaborativo" />
+</a>
+</div>
 
 ### 🛠️ Tecnologías, Herramientas y Conocimientos
 
