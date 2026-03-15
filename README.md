@@ -1,4 +1,4 @@
-<img align="right" src="https://cl.pinterest.com/pin/677088125265330156/" alt="Coding GIF" width="250"/>
+<div class="tenor-gif-embed" data-postid="8595091286920409103" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/poki-hamster-hammy-cute-funny-gif-8595091286920409103">Poki Hamster Sticker</a>from <a href="https://tenor.com/search/poki-stickers">Poki Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <h1 align="center">¡Hola! 👋 Soy Juan</h1>
 
