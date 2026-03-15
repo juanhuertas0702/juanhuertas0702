@@ -1,3 +1,5 @@
+<img align="right" src="https://cl.pinterest.com/pin/677088125265330156/" alt="Coding GIF" width="250"/>
+
 <h1 align="center">¡Hola! 👋 Soy Juan</h1>
 
 <h3 align="center">Apasionado por la Ingeniería de Sistemas | Entendiendo cómo funcionan las cosas | Desarrollador de proyectos a gran escala</h3>
