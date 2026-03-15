@@ -1,4 +1,4 @@
-<img align="right" src="https://tenor.com/es-419/view/poki-hamster-hammy-cute-funny-gif-8595091286920409103" alt="Coding GIF" width="250"/>
+<img align="right" src="https://media.tenor.com/mydtsPTMUOgAAAAj/ragoon-linea.gif" alt="Coding GIF" width="250"/>
 
 <h1 align="center">¡Hola! 👋 Soy Juan</h1>
 
