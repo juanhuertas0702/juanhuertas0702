@@ -2,7 +2,9 @@
 
 <h3 align="left">¡Hola! 👋 Soy Juan</h3>
 
-<img align="right" src="https://media.tenor.com/mydtsPTMUOgAAAAj/ragoon-linea.gif" alt="Coding GIF" width="140"/>
+<div align="right" style="margin-top: -20px;">
+  <img src="PEGA_AQUÍ_EL_ENLACE_DE_TU_GIF" alt="GIF Mapache" width="140"/>
+</div>
 
 <br>
 <h3 align="left">Apasionado por la Ingeniería de Sistemas | Entendiendo cómo funcionan las cosas | Desarrollador de proyectos a gran escala</h3>
