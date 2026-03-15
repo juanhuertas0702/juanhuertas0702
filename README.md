@@ -1,6 +1,6 @@
 
 
-<h3 align="left">¡Hola! 👋 Soy Juan</h3>
+<h1 align="left">¡Hola! 👋 Soy Juan</h1>
 
 <div align="center" style="margin-top: -20px;">
   <img src="https://media.tenor.com/mydtsPTMUOgAAAAj/ragoon-linea.gif" alt="GIF Mapache" width="250"/>
