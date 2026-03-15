@@ -1,4 +1,4 @@
-<img align="right" src="https://media.tenor.com/mydtsPTMUOgAAAAj/ragoon-linea.gif" alt="Coding GIF" width="250"/>
+<img align="right" src="https://media.tenor.com/mydtsPTMUOgAAAAj/ragoon-linea.gif" alt="Coding GIF" width="150"/>
 
 <h1 align="center">¡Hola! 👋 Soy Juan</h1>
 
