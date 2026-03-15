@@ -3,7 +3,7 @@
 <h3 align="left">¡Hola! 👋 Soy Juan</h3>
 
 <div align="right" style="margin-top: -20px;">
-  <img src="PEGA_AQUÍ_EL_ENLACE_DE_TU_GIF" alt="GIF Mapache" width="140"/>
+  <img src="https://media.tenor.com/mydtsPTMUOgAAAAj/ragoon-linea.gif" alt="GIF Mapache" width="140"/>
 </div>
 
 <br>
